@@ -111,18 +111,16 @@ is the world frame). For more, see http://www.ros.org/wiki/xacro -->
 		range="4.0">
 	<origin xyz="0.475 0.0 -0.08823" rpy="3.14 0.0 0"/>
 	</xacro:hokuyo_laser>
-
-    <xacro:multisense_sl parent="trunk" prefix="hyq">
+<!--
+    <xacro:multisense_sl parent="trunk" prefix="hyq">-->
             <!-- <origin xyz="0.741737 0.0191395 0.143229" rpy="-0.0241345 0.446222 -0.0347202"/> -->
-            <origin xyz="0.741737 0.0 0.143229" rpy="-0.0241345 0.446222 -0.0347202"/>
-    </xacro:multisense_sl>
+         <!--
+       <origin xyz="0.741737 0.0 0.143229" rpy="-0.0241345 0.446222 -0.0347202"/>
+    </xacro:multisense_sl>-->
 
-	<!-- Asus Xtion Pro -->
-	<!--<origin xyz="0 0.005 0.036" rpy="0 0 0"/> with Bumblebee setup -->
-	<!--<origin xyz="0 0 0.04397" rpy="0 0 0"/> with Vislab setup -->
-	<xacro:asus_xtion_camera name="asus" parent="trunk">
-		<origin xyz="0.66489 0.0016545 0.0380496" rpy="0.00740313 1.2 0.0244919"/>
-<!--		<origin xyz="0.66489 0.0016545 0.0380496" rpy="0.00740313 0.479116 0.0244919"/>-->
-	</xacro:asus_xtion_camera>
+    <xacro:asus_xtion_camera name="asus" parent="trunk">
+        <origin xyz="0.66489 0.0016545 0.0380496" rpy="0.00740313 1.2 0.0244919"/>
+<!--        <origin xyz="0.66489 0.0016545 0.0380496" rpy="0.00740313 0.479116 0.0244919"/>-->
+    </xacro:asus_xtion_camera>
 
 </robot>
