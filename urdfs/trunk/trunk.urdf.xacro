@@ -47,6 +47,7 @@
 
 		<!-- Extensions -->
 		<xacro:trunk_gazebo name="trunk"/>
+
 	</xacro:macro>
 
 </robot>
