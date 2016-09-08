@@ -1,0 +1,12 @@
+/home/stonneau/dev/hpp/install/_setup_util.py
+/home/stonneau/dev/hpp/install/env.sh
+/home/stonneau/dev/hpp/install/setup.bash
+/home/stonneau/dev/hpp/install/setup.sh
+/home/stonneau/dev/hpp/install/setup.zsh
+/home/stonneau/dev/hpp/install/.rosinstall
+/home/stonneau/dev/hpp/install/etc/catkin/profile.d/05.catkin_make.bash
+/home/stonneau/dev/hpp/install/etc/catkin/profile.d/05.catkin_make_isolated.bash
+/home/stonneau/dev/hpp/install/lib/pkgconfig/hyq_description.pc
+/home/stonneau/dev/hpp/install/share/hyq_description/cmake/hyq_descriptionConfig.cmake
+/home/stonneau/dev/hpp/install/share/hyq_description/cmake/hyq_descriptionConfig-version.cmake
+/home/stonneau/dev/hpp/install/share/hyq_description/package.xml

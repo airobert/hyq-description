@@ -1,0 +1,8 @@
+prefix=/home/stonneau/dev/hpp/src/hyq-description/build/devel
+
+Name: hyq_description
+Description: Description of hyq_description
+Version: 0.1.2
+Cflags: 
+Libs: -L/home/stonneau/dev/hpp/src/hyq-description/build/devel/lib 
+Requires: 

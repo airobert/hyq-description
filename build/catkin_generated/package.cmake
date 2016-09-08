@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "hyq_description")
+set(hyq_description_MAINTAINER "Carlos Mastalli <carlos.mastalli@iit.it>")
+set(hyq_description_DEPRECATED "")
+set(hyq_description_VERSION "0.1.2")
+set(hyq_description_BUILD_DEPENDS "convex_decomposition" "ivcon")
+set(hyq_description_RUN_DEPENDS "xacro")
+set(hyq_description_BUILDTOOL_DEPENDS "catkin")
